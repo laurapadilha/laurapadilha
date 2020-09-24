@@ -4,4 +4,4 @@
      - [São Paulo - SP] 
      - [Estudante de análise de sistemas] 
 
-> Entre em contato comigo: [Linkedin](https://www.linkedin.com/in/laurapadilha/) | [E-mail](mailto:laura.thalya@hotmail.com)
+> Entre em contato comigo: [Linkedin](https://www.linkedin.com/in/laurapadilha/) e [E-mail](mailto:laura.thalya@hotmail.com)
