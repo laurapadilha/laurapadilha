@@ -1,9 +1,16 @@
+<h1 align="center">Hi 👋, I'm Laura</h1>
+<h3 align="center">23, São Paulo</h3>
 
-#### Olá, sou a Laura!
-<img src="https://img.icons8.com/small/16/000000/html.png"/><img src="https://img.icons8.com/small/16/000000/sql.png"/><img src="https://img.icons8.com/small/16/000000/c-plus-plus.png"/><img src="https://img.icons8.com/small/16/000000/css.png"/><img src="https://img.icons8.com/small/16/000000/cs.png"/><img src="https://img.icons8.com/small/16/000000/js.png"/><img src="https://img.icons8.com/small/16/000000/json.png"/><img src="https://img.icons8.com/small/16/000000/ps.png"/><img src="https://img.icons8.com/small/16/000000/code-file.png"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laurapadilha&label=Profile%20views&color=0e75b6&style=flat" alt="laurapadilha" /> </p>
 
-- 23 anos
-- São Paulo - SP
-- Estudante de Análise de sistemas
+- 📫 How to reach me **alaurapadilha@hotmail.co**
 
-Entre em contato comigo: [Linkedin](https://www.linkedin.com/in/laurapadilha/) e [E-mail](mailto:laura.thalya@hotmail.com?subject=Hello%20again)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/laurapadilha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="laurapadilha" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurapadilha&show_icons=true&locale=en&layout=compact" alt="laurapadilha" /></p>
