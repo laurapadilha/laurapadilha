@@ -1,5 +1,5 @@
-<h4 align="center">Hi 👋, I'm Laura</h4>
-<h5 align="center">23, São Paulo</h5>
+<h4 align="left">Hi 👋, I'm Laura</h4>
+<h5 align="left">23, São Paulo</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurapadilha&label=Profile%20views&color=0e75b6&style=flat" alt="laurapadilha" /> </p>
 
