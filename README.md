@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://icons8.com/icon/57875/html-filetype">HTML Filetype icon by Icons8</a> <a href="https://icons8.com/icon/57871/css-filetype">CSS Filetype icon by Icons8</a> <img src="https://img.icons8.com/windows/32/000000/node-js.png"/> <img src="https://img.icons8.com/ios/32/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/small/32/000000/json.png"/> <img src="https://img.icons8.com/windows/32/000000/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/small/16/000000/css-filetype.png"/> <img src="https://img.icons8.com/small/16/000000/html.png"/> <img src="https://img.icons8.com/windows/32/000000/node-js.png"/> <img src="https://img.icons8.com/ios/32/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/small/32/000000/json.png"/> <img src="https://img.icons8.com/windows/32/000000/c-sharp-logo.png"/>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurapadilha&show_icons=true&locale=en&layout=compact" alt="laurapadilha" /></p>
